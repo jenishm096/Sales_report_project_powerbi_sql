@@ -32,6 +32,8 @@ The cleaned and processed data from SQL is then imported into Power BI for visua
 
 SQL Scripts: Contains the SQL scripts used for data extraction, cleaning, and preprocessing.
 
-Power BI Reports: Contains the Power BI files (.pbix) showcasing the visualizations and analysis.
+Excel Files: Contains csv files extracted from sql and sales budget excel file.
+
+Sales Report Project: Contains the Power BI file (.pbix) showcasing the visualizations and analysis.
 
 Readme.md: Provides an overview of the project and instructions for replication.
